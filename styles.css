@@ -1,0 +1,34 @@
+# Timetable
+body{
+	background: white;
+	color: blue;
+}
+h1{
+	font-family: "Times new roman" serif;
+	font-size: 30pt;
+}
+p{
+	font-family:  serif;
+	font-size: 20pt;
+}
+
+a{
+	color: red;
+	font-family: serif;
+	font-size: 60pt;
+}
+a:hover{
+	color: green;
+	text-decoration: none;
+	background: red;
+}
+.greenlink:hover{
+	background: yellow;
+	color: pink ;
+}
+.indent{
+	margin-left: 100px;
+}
+.gap_below{
+	margin-bottom: 150px;
+}
